@@ -19,5 +19,5 @@
 ![розклад груп](https://user-images.githubusercontent.com/91470828/178153991-95e1a95a-4fee-41d1-b9df-435503e9e7b8.png)
 ![розклад аудиторій](https://user-images.githubusercontent.com/91470828/178153993-c9f3618f-da56-41ea-b278-f22b236aa470.png)
 ![додавання до бд](https://user-images.githubusercontent.com/91470828/178154003-48b64483-bcdd-49cd-82f0-8b5d21c89eb4.png)
-![результат додавання ](https://user-images.githubusercontent.com/91470828/178154005-7855cf2c-b46f-41d9-a808-e4bc2f011668.png)
+![результат додавання до бд](https://user-images.githubusercontent.com/91470828/178154133-ae0512c2-f528-4dcc-9815-5aa056f7d325.png)
 ![image](https://user-images.githubusercontent.com/91470828/178154020-08c16ed6-94a8-4b84-b52d-8667651e2fc5.png)
