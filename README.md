@@ -16,3 +16,9 @@
 Обеспечить возможность добавления новых практических занятий (с указанием существующих группы и преподавателя) в БД средствами веб-приложения. Обратите внимание на работу с ключевыми полями.
 
 
+
+![розклад аудиторій](https://user-images.githubusercontent.com/91470828/178337853-570128cd-2a7e-4ef7-9822-5d9f50b4f0fc.png)
+![розклад груп](https://user-images.githubusercontent.com/91470828/178337859-364f23d3-9a68-48c4-becb-245e39939cc1.png)
+![розклад викладача](https://user-images.githubusercontent.com/91470828/178337864-24837547-8414-42c9-8380-3624914376fd.png)
+![додавання до бд](https://user-images.githubusercontent.com/91470828/178337877-66d7b048-87df-4eac-aace-d957bc4e34c2.png)
+![результат додавання ](https://user-images.githubusercontent.com/91470828/178337908-3af337e6-d7fd-4033-b63d-a6250abd9ab8.png)
